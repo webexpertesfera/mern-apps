@@ -1,0 +1,15 @@
+.graph_dev{
+    display: flex !important;
+    width: 65% !important;
+    align-items: center !important;
+    /* justify-content: space-around !important; */
+}
+.graph_input{
+    width: 40% !important;
+    border-radius: 12px !important;
+}
+
+
+.quest_input{
+    width:60% !important;
+}
